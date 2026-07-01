@@ -9,7 +9,7 @@ set "FOLDER=%~dp0"
 cls
 echo ============================================================
 echo   🔐 SISTEMA DE COLETA DE HASHES SHA256 E MD5
-echo   🔗 https://ravenastar.com/cmd/cHashes.bat
+echo   🔗 https://ravenastar.com/cmd/cHashes
 echo ============================================================
 echo.
 echo   Este sistema irá gerar hashes SHA256 e MD5 de todos os
@@ -30,7 +30,7 @@ goto MenuPrincipal
 cls
 echo ============================================================
 echo   📖 GUIA DO SCRIPT - Coleta de Hashes SHA256 e MD5
-echo   🔗 https://ravenastar.com/cmd/cHashes.bat
+echo   🔗 https://ravenastar.com/cmd/cHashes
 echo ============================================================
 echo.
 echo ═══════════════════════════════════════════════════════════════
@@ -144,7 +144,7 @@ goto MenuPrincipal
 cls
 echo ============================================================
 echo   🔐 COLETANDO HASHES DE TODOS OS ARQUIVOS
-echo   🔗 https://ravenastar.com/cmd/cHashes.bat
+echo   🔗 https://ravenastar.com/cmd/cHashes
 echo ============================================================
 echo.
 echo 📂 Pasta analisada: %FOLDER%
