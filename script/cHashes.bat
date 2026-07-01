@@ -193,7 +193,7 @@ echo ============================================================
 echo   📋 COLETA DE HASHES - SHA256 E MD5
 echo ============================================================
 echo.
-echo 🔗 Ferramenta utilizada: ravenastar.com/cmd/cHashes.bat
+echo 🔗 Ferramenta utilizada: ravenastar.com/cmd/cHashes
 echo.
 echo ⏱️ Data/Hora da execução : %date% %time%
 echo.
