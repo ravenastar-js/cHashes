@@ -240,7 +240,7 @@ iniciar_coleta() {
 
         fsize=$(stat -c%s "$filepath" 2>/dev/null)
         fdate=$(stat -c '%y' "$filepath" 2>/dev/null)
-        relativepath="${filepath#$FOLDER}"
+        relativepath="${filepath#"$FOLDER"}"
 
         hash_sha=$(sha256sum "$filepath" 2>/dev/null | awk '{print $1}')
         hash_md5=$(md5sum "$filepath" 2>/dev/null | awk '{print $1}')
