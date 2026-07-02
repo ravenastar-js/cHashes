@@ -37,8 +37,10 @@ Leve, rápido e sem instalação.
 
 ## 🛠️ Requisitos
 
-- Windows 10 21H2+ / Windows 11
+- Windows 7, 8, 10, 11 ou Server 2008+
 - Nenhuma instalação adicional (usa `certutil` nativo)
+
+> Se o script padrão [`script/cHashes.bat`](script/cHashes.bat) não funcionar, use o script básico [`script/basic_cHashes.bat`](script/basic_cHashes.bat).
 
 ---
 
