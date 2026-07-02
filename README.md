@@ -64,6 +64,40 @@ Isso facilita a verificação de integridade entre versões diferentes de arquiv
 
 ---
 
+## 🔐 Sobre a Verifact®
+
+[![Verifact](https://img.shields.io/badge/Verifact®-Registro%20de%20Provas%20Digitais-blue?style=for-the-badge)](https://www.verifact.com.br/)
+
+A **Verifact®** é uma plataforma especializada na coleta e preservação de evidências digitais na internet, oferecendo uma base sólida para apoiar processos judiciais.
+
+### 🎯 Finalidade
+- Registrar provas da internet com validade jurídica
+- Coletar evidências de WhatsApp, Facebook, Instagram, Twitter, Telegram, YouTube, webmails, blogs e sites
+- Alternativa moderna à ata notarial
+
+### 🛡️ Diferenciais
+- Aceitação em todas as instâncias do judiciário
+- Ambiente antifraude patenteado
+- Atestada por órgãos públicos
+- Cumpre cadeia de custódia (CPP) e ISO 27037
+- Relatórios a partir de R$97, sem assinatura obrigatória
+
+### 🔒 Como preserva a integridade
+1. Gera relatório técnico certificado em PDF
+2. Utiliza carimbo de tempo ICP-Brasil
+3. Registra códigos HASH de todos os arquivos
+4. Mantém vídeo da navegação e metadados técnicos
+
+### 📊 Conteúdos que podem ser registrados
+- Aplicativos de chat (WhatsApp, Telegram)
+- Redes sociais (Facebook, Instagram, TikTok, Twitter)
+- E-mails (Outlook, Gmail, Hotmail)
+- Vídeos (YouTube, Vimeo)
+- Blogs, sites e portais de notícias
+- Qualquer conteúdo da internet via browser
+
+---
+
 ## 📦 Download
 
 | Arquivo | Versão | Link |
