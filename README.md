@@ -2,7 +2,7 @@
 
 # 🔐 cHashes.bat – Coletor de Hashes SHA256 e MD5 em Lote
 
-Script em batch para Windows que percorre pastas e subpastas, calculando hashes SHA256 e MD5 de cada arquivo e gerando um relatório detalhado.
+Script em batch para Windows desenvolvido para coletar e documentar hashes SHA-256 e MD5 de todos os arquivos em uma pasta e em suas subpastas, recursivamente, gerando um relatório detalhado para fins de auditoria e verificação de integridade.
 
 [![➜ ​ ​DOWNLOAD](https://img.shields.io/badge/➜%20DOWNLOAD-gray.svg)](script/cHashes.bat)
 [![Versão](https://img.shields.io/badge/versão-1.0-brightgreen)](https://github.com/ravenastar-js/cHashes)
