@@ -37,7 +37,7 @@ Leve, rápido e sem instalação.
 
 ## 🛠️ Requisitos
 
-- Windows 7, 8, 10, 11 ou Server 2008+
+- Windows 10 21H2+ / Windows 11
 - Nenhuma instalação adicional (usa `certutil` nativo)
 
 ---
