@@ -8,11 +8,11 @@ set "FOLDER=%~dp0"
 :MenuPrincipal
 cls
 echo ============================================================
-echo   🔐 SISTEMA DE COLETA DE HASHES SHA256 E MD5
+echo   🔐 SCRIPT DE COLETA DE HASHES SHA256 E MD5
 echo   🔗 https://ravenastar.com/cmd/cHashes
 echo ============================================================
 echo.
-echo   Este sistema irá gerar hashes SHA256 e MD5 de todos os
+echo   Este script irá gerar hashes SHA256 e MD5 de todos os
 echo   arquivos da pasta atual e suas subpastas.
 echo.
 echo   [ 1 ] ▷ Iniciar coleta
@@ -22,11 +22,11 @@ echo.
 echo ============================================================
 choice /c 123 /n /m "Opção: "
 if errorlevel 3 goto Sair
-if errorlevel 2 goto GuiaSistema
+if errorlevel 2 goto GuiaScript
 if errorlevel 1 goto ColetarTodos
 goto MenuPrincipal
 
-:GuiaSistema
+:GuiaScript
 cls
 echo ============================================================
 echo   📖 GUIA DO SCRIPT - Coleta de Hashes SHA256 e MD5
@@ -34,7 +34,7 @@ echo   🔗 https://ravenastar.com/cmd/cHashes
 echo ============================================================
 echo.
 echo ═══════════════════════════════════════════════════════════════
-echo  🎯 OBJETIVO DO SISTEMA
+echo  🎯 OBJETIVO DO SCRIPT
 echo ═══════════════════════════════════════════════════════════════
 echo.
 echo  Este script foi desenvolvido para coletar e documentar
@@ -281,7 +281,7 @@ goto :eof
 :Sair
 cls
 echo ============================================================
-echo   👋 SISTEMA ENCERRADO
+echo   👋 SCRIPT ENCERRADO
 echo ============================================================
 echo.
 pause >nul
