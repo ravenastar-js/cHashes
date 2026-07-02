@@ -35,20 +35,6 @@ Leve, rápido e sem instalação.
 
 ---
 
-## 🔍 Comparação de Hashes com Notepad++
-
-Após gerar o relatório, você pode comparar hashes de diferentes arquivos ou versões usando o **Notepad++** com o plugin **Compare**:
-
-1. Baixe e instale o [Notepad++](https://notepad-plus-plus.org/)
-2. Instale o plugin **Compare** via `Plugins > Plugins Admin`
-3. Abra dois arquivos de relatório ou dois hashes lado a lado
-4. Vá em `Plugins > Compare > Compare`
-5. As diferenças serão destacadas automaticamente
-
-Isso facilita a verificação de integridade entre versões diferentes de arquivos ou a validação de hashes em auditorias.
-
----
-
 ## 🛠️ Requisitos
 
 - Windows 7, 8, 10, 11 ou Server 2008+
@@ -95,6 +81,20 @@ A **Verifact®** é uma plataforma especializada na coleta e preservação de ev
 - Vídeos (YouTube, Vimeo)
 - Blogs, sites e portais de notícias
 - Qualquer conteúdo da internet via browser
+
+---
+
+## 🔍 Comparação de Hashes com Notepad++
+
+Após gerar o relatório, você pode comparar hashes de diferentes arquivos ou versões usando o **Notepad++** com o plugin **Compare**:
+
+1. Baixe e instale o [Notepad++](https://notepad-plus-plus.org/)
+2. Instale o plugin **Compare** via `Plugins > Plugins Admin`
+3. Abra dois arquivos de relatório ou dois hashes lado a lado
+4. Vá em `Plugins > Compare > Compare`
+5. As diferenças serão destacadas automaticamente
+
+Isso facilita a verificação de integridade entre versões diferentes de arquivos ou a validação de hashes em auditorias.
 
 ---
 
