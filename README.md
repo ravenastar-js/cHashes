@@ -105,6 +105,7 @@ Isso facilita a verificação de integridade entre versões diferentes de arquiv
 | Arquivo | Versão | Link |
 |---------|--------|------|
 | `cHashes.bat` | 1.0 | [Baixar](script/cHashes.bat) |
+| `basic_cHashes.bat` | 1.0 | [Baixar](script/basic_cHashes.bat) |
 
 ---
 
