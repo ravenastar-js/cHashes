@@ -117,10 +117,10 @@ Isso facilita a verificação de integridade entre versões diferentes de arquiv
 
 ## 🌟 Star History
 
-<a href="https://www.star-history.com/#ravenastar-js/cHashes&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ravenastar-js%2FcHashes&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ravenastar-js/cHashes&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ravenastar-js/cHashes&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ravenastar-js/cHashes&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ravenastar-js/cHashes&type=date&theme=dark&legend=top-left&sealed_token=xtcIlw-ZJP5wSrdGbi3X5zpu5UIPWXdgXTsfP6LLGFHF-9II1T2Hb_gHg58T-oycsNmyYKr3An1I0CvBolZhjz5aXgGO2_v4ToyNwVq8LOy01lhQe-gtwg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ravenastar-js/cHashes&type=date&legend=top-left&sealed_token=xtcIlw-ZJP5wSrdGbi3X5zpu5UIPWXdgXTsfP6LLGFHF-9II1T2Hb_gHg58T-oycsNmyYKr3An1I0CvBolZhjz5aXgGO2_v4ToyNwVq8LOy01lhQe-gtwg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ravenastar-js/cHashes&type=date&legend=top-left&sealed_token=xtcIlw-ZJP5wSrdGbi3X5zpu5UIPWXdgXTsfP6LLGFHF-9II1T2Hb_gHg58T-oycsNmyYKr3An1I0CvBolZhjz5aXgGO2_v4ToyNwVq8LOy01lhQe-gtwg" />
  </picture>
 </a>
